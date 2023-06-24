@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://witty-wave-037efcd00.3.azurestaticapps.net/
-** project demo video link** - 
+** project demo video link** - https://youtu.be/6q28I-eEdjQ
 
 ## Features and Functionalities 😃
 
